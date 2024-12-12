@@ -1,4 +1,4 @@
-[![MasterHead](https://tr.pinterest.com/pin/295196950594950946/)
+[![MasterHead](https://hizliresim.com/j6zc4qe)
 
 <h1 align="center">Hi 👋, I'm Hüseyin Koç</h1>
 <h3 align="center">.Net Back-end Developer</h3>
